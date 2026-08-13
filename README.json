@@ -1,0 +1,248 @@
+{
+  "items": [
+    {
+      "description": "Before starting the audits you need to know about the projects codebase. You can easily do this task using Consensys's Solidity-Code-Metrics.\nHere the details, How you can easy understand the projets scop.\n🌐\nThe number-crunching enginge behind 📊tintinweb.solidity-metrics.\n\nAlso, some helpers mention here it's can help before audit.",
+      "items": [],
+      "title": "Audit Scoping"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SLoc (cloc)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "number of solidity files"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lines of code per solidity file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SHA256 hash of files"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "some of external calls in solidity files"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Using the OpenZeppelin safe math library [?",
+          "description": "].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-08-12T20:47:27Z",
+            "owner": "OpenZeppelin",
+            "repo": "openzeppelin-contracts",
+            "stars": 27213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Properly implements the ERC20 interface [?",
+          "description": "].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:25:17Z",
+            "owner": "ethereum",
+            "repo": "EIPs",
+            "stars": 13952
+          }
+        }
+      ],
+      "title": "General Review Approach:"
+    },
+    {
+      "description": "I've mentioned here some public audits reports for learn audits. So, lets enjoy reading some cool audits reports.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TrailofBits",
+          "description": "Reports",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T05:09:07Z",
+            "owner": "trailofbits",
+            "repo": "publications",
+            "stars": 1876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oak Security",
+          "description": "Reports",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T09:27:16Z",
+            "owner": "oak-security",
+            "repo": "audit-reports",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G0 group",
+          "description": "Reports",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-17T23:45:16Z",
+            "owner": "g0-group",
+            "repo": "Audits",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "List of Public SmartContracts Audits Reports"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Repository this list was largely sourced from",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-02T23:04:48Z",
+            "owner": "transmissions11",
+            "repo": "solcurity",
+            "stars": 2184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "All ctf poc writen using Foundery | ctf-blockchain)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-10-09T22:51:54Z",
+            "owner": "minaminao",
+            "repo": "ctf-blockchain",
+            "stars": 1085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blockchain Security Audit List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-14T01:20:36Z",
+            "owner": "0xNazgul",
+            "repo": "Blockchain-Security-Audit-List",
+            "stars": 793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semgrep Smart-contracts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-06-02T18:15:41Z",
+            "owner": "Decurity",
+            "repo": "semgrep-smart-contracts",
+            "stars": 713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Contract Auditing Heuristics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-13T11:00:20Z",
+            "owner": "OpenCoreCH",
+            "repo": "smart-contract-auditing-heuristics",
+            "stars": 615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity idiosyncrasies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Solidity",
+            "last_commit": "2020-11-30T02:11:40Z",
+            "owner": "miguelmota",
+            "repo": "solidity-idiosyncrasies",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity Code Metrics By Consensys Diligence",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-28T10:03:15Z",
+            "owner": "ConsenSysDiligence",
+            "repo": "solidity-metrics",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart contract best pracitices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-03-28T17:57:27Z",
+            "owner": "Consensys",
+            "repo": "smart-contract-best-practices",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum Security Guide",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:54.811Z",
+    "original_repository": "tamjid0x01/SmartContracts-audit-checklist",
+    "original_repository_sha": "77d0b99e93087e83ef024a9fb29caca689f44f33",
+    "enhanced_repository": "enhansome/enhansome-SmartContracts-audit-checklist",
+    "enhanced_repository_description": null,
+    "title": "Awesome SmartContracts-audit-checklist with stars"
+  }
+}

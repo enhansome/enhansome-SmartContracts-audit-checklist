@@ -41,10 +41,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-13T21:02:04Z",
+            "last_commit": "2026-08-14T17:12:41Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27216
+            "stars": 27217
           }
         },
         {
@@ -55,7 +55,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:29:26Z",
+            "last_commit": "2026-08-14T20:54:24Z",
             "owner": "ethereum",
             "repo": "EIPs",
             "stars": 13951
@@ -75,7 +75,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T05:09:07Z",
+            "last_commit": "2026-08-14T21:45:50Z",
             "owner": "trailofbits",
             "repo": "publications",
             "stars": 1877
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:48:02.728Z",
+    "last_updated": "2026-08-15T07:58:36.534Z",
     "original_repository": "tamjid0x01/SmartContracts-audit-checklist",
     "original_repository_sha": "77d0b99e93087e83ef024a9fb29caca689f44f33",
     "enhanced_repository": "enhansome/enhansome-SmartContracts-audit-checklist",

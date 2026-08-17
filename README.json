@@ -44,7 +44,7 @@
             "last_commit": "2026-08-15T08:46:07Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27219
+            "stars": 27218
           }
         },
         {
@@ -78,7 +78,7 @@
             "last_commit": "2026-08-14T21:45:50Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1877
+            "stars": 1878
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2023-07-02T23:04:48Z",
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2185
+            "stars": 2184
           }
         },
         {
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:58:51.583Z",
+    "last_updated": "2026-08-17T08:23:32.993Z",
     "original_repository": "tamjid0x01/SmartContracts-audit-checklist",
     "original_repository_sha": "77d0b99e93087e83ef024a9fb29caca689f44f33",
     "enhanced_repository": "enhansome/enhansome-SmartContracts-audit-checklist",

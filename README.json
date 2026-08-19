@@ -33,7 +33,7 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-18T14:18:10Z",
+            "last_commit": "2026-08-19T10:36:28Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27219
@@ -123,7 +123,7 @@
             "last_commit": "2023-07-02T23:04:48Z",
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2184
+            "stars": 2183
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2025-06-02T18:15:41Z",
             "owner": "Decurity",
             "repo": "semgrep-smart-contracts",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -236,8 +236,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:07:28.444Z",
+    "last_updated": "2026-08-19T12:11:39.730Z",
     "original_repository": "tamjid0x01/SmartContracts-audit-checklist",
+    "original_repository_id": 503004543,
     "original_repository_sha": "77d0b99e93087e83ef024a9fb29caca689f44f33",
     "enhanced_repository": "enhansome/enhansome-SmartContracts-audit-checklist",
     "enhanced_repository_description": null,

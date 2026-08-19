@@ -103,8 +103,8 @@ contracts/WhitePaperInterestRateModel.sol:37:        baseRatePerBlock = baseRate
 
 ## General Review Approach:
 
-* [ ] Using the OpenZeppelin safe math library \[[?](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/math) ⭐ 27,219 | 🐛 371 | 🌐 Solidity | 📅 2026-08-18].
-* [ ] Properly implements the ERC20 interface \[[?](https://github.com/ethereum/eips/issues/20) ⭐ 13,955 | 🐛 509 | 🌐 Python | 📅 2026-08-18].
+* [ ] Using the OpenZeppelin safe math library \[[?](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/math) ⭐ 27,219 | 🐛 370 | 🌐 Solidity | 📅 2026-08-19].
+* [ ] Properly implements the ERC20 interface \[[?](https://github.com/ethereum/eips/issues/20) ⭐ 13,955 | 🐛 513 | 🌐 Python | 📅 2026-08-18].
 * [ ] All functions are `internal` except where explictly required to be `public`/`external`. \[[?](https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7)]
 * [ ] There are no arithmetic overflows/underflows in math operations.
 * [ ] Ether or tokens cannot be accidentally sent to the address `0x0`.
@@ -345,10 +345,10 @@ I've mentioned here some public audits reports for learn audits. So, lets enjoy 
 
 ## Resources
 
-* [The Repository this list was largely sourced from](https://github.com/Rari-Capital/solcurity) ⭐ 2,184 | 🐛 3 | 📅 2023-07-02
+* [The Repository this list was largely sourced from](https://github.com/Rari-Capital/solcurity) ⭐ 2,183 | 🐛 3 | 📅 2023-07-02
 * [All ctf poc writen using Foundery | ctf-blockchain)](https://github.com/minaminao/ctf-blockchain) ⭐ 1,090 | 🐛 0 | 🌐 Solidity | 📅 2025-10-09
 * [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) ⭐ 793 | 🐛 4 | 📅 2025-01-14
-* [Semgrep Smart-contracts](https://github.com/Decurity/semgrep-smart-contracts) ⭐ 713 | 🐛 13 | 🌐 Solidity | 📅 2025-06-02
+* [Semgrep Smart-contracts](https://github.com/Decurity/semgrep-smart-contracts) ⭐ 714 | 🐛 13 | 🌐 Solidity | 📅 2025-06-02
 * [Smart Contract Auditing Heuristics](https://github.com/OpenCoreCH/smart-contract-auditing-heuristics) ⭐ 615 | 🐛 0 | 📅 2022-12-13
 * [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) ⚠️ Archived
 * [Solidity Code Metrics By Consensys Diligence](https://github.com/ConsenSys/solidity-metrics) ⭐ 296 | 🐛 8 | 🌐 JavaScript | 📅 2024-11-28

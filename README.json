@@ -1,37 +1,28 @@
 {
   "items": [
     {
-      "description": "Before starting the audits you need to know about the projects codebase. You can easily do this task using Consensys's Solidity-Code-Metrics.\nHere the details, How you can easy understand the projets scop.\n🌐\nThe number-crunching enginge behind 📊tintinweb.solidity-metrics.\n\nAlso, some helpers mention here it's can help before audit.",
-      "items": [],
+      "description": "Before starting the audits you need to know about the projects codebase. You can easily do this task using Consensys's Solidity-Code-Metrics.\nHere the details, How you can easy understand the projets scop.\n🌐\nThe number-crunching enginge behind 📊tintinweb.solidity-metrics.\nAlso, some helpers mention here it's can help before audit.",
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 42029482,
+            "language": "Perl",
+            "last_commit": "2026-08-08T13:26:32Z",
+            "owner": "AlDanial",
+            "repo": "cloc",
+            "stars": 23444
+          },
+          "title": "SLoc (cloc)"
+        }
+      ],
       "title": "Audit Scoping"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "SLoc (cloc)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "number of solidity files"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Lines of code per solidity file"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SHA256 hash of files"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "some of external calls in solidity files"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -40,11 +31,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-17T20:44:12Z",
+            "last_commit": "2026-08-18T14:18:10Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27217
+            "stars": 27219
           }
         },
         {
@@ -54,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44971752,
             "language": "Python",
-            "last_commit": "2026-08-17T20:27:34Z",
+            "last_commit": "2026-08-18T11:59:19Z",
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13954
+            "stars": 13955
           }
         }
       ],
@@ -74,8 +67,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34814001,
             "language": "Python",
-            "last_commit": "2026-08-14T21:45:50Z",
+            "last_commit": "2026-08-19T05:07:48Z",
             "owner": "trailofbits",
             "repo": "publications",
             "stars": 1879
@@ -88,6 +82,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 386672606,
             "language": null,
             "last_commit": "2026-07-27T09:27:16Z",
             "owner": "oak-security",
@@ -102,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176377581,
             "language": null,
             "last_commit": "2024-07-17T23:45:16Z",
             "owner": "g0-group",
@@ -113,7 +109,7 @@
       "title": "List of Public SmartContracts Audits Reports"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -122,6 +118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402241377,
             "language": null,
             "last_commit": "2023-07-02T23:04:48Z",
             "owner": "transmissions11",
@@ -136,11 +133,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436095390,
             "language": "Solidity",
             "last_commit": "2025-10-09T22:51:54Z",
             "owner": "minaminao",
             "repo": "ctf-blockchain",
-            "stars": 1089
+            "stars": 1090
           }
         },
         {
@@ -150,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473819456,
             "language": null,
             "last_commit": "2025-01-14T01:20:36Z",
             "owner": "0xNazgul",
@@ -164,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476727342,
             "language": "Solidity",
             "last_commit": "2025-06-02T18:15:41Z",
             "owner": "Decurity",
@@ -178,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576975848,
             "language": null,
             "last_commit": "2022-12-13T11:00:20Z",
             "owner": "OpenCoreCH",
@@ -192,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 107217298,
             "language": "Solidity",
             "last_commit": "2020-11-30T02:11:40Z",
             "owner": "miguelmota",
@@ -206,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261559635,
             "language": "JavaScript",
             "last_commit": "2024-11-28T10:03:15Z",
             "owner": "ConsenSysDiligence",
@@ -220,25 +223,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 956692023,
             "language": "HTML",
             "last_commit": "2025-03-28T17:57:27Z",
             "owner": "Consensys",
             "repo": "smart-contract-best-practices",
             "stars": 25
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethereum Security Guide",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:06:33.785Z",
+    "last_updated": "2026-08-19T08:07:28.444Z",
     "original_repository": "tamjid0x01/SmartContracts-audit-checklist",
     "original_repository_sha": "77d0b99e93087e83ef024a9fb29caca689f44f33",
     "enhanced_repository": "enhansome/enhansome-SmartContracts-audit-checklist",

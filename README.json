@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T13:26:32Z",
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23451
+            "stars": 23458
           },
           "title": "SLoc (cloc)"
         }
@@ -33,7 +33,7 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-20T20:51:53Z",
+            "last_commit": "2026-08-21T14:31:31Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27223
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 44971752,
             "language": "Python",
-            "last_commit": "2026-08-20T20:51:04Z",
+            "last_commit": "2026-08-21T19:20:53Z",
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13955
+            "stars": 13954
           }
         }
       ],
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-19T05:07:48Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1880
+            "stars": 1879
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2023-07-02T23:04:48Z",
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2182
+            "stars": 2181
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2025-10-09T22:51:54Z",
             "owner": "minaminao",
             "repo": "ctf-blockchain",
-            "stars": 1090
+            "stars": 1091
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2025-06-02T18:15:41Z",
             "owner": "Decurity",
             "repo": "semgrep-smart-contracts",
-            "stars": 714
+            "stars": 713
           }
         },
         {
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:19:24.305Z",
+    "last_updated": "2026-08-22T07:59:45.969Z",
     "original_repository": "tamjid0x01/SmartContracts-audit-checklist",
     "original_repository_id": 503004543,
     "original_repository_sha": "77d0b99e93087e83ef024a9fb29caca689f44f33",

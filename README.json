@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T13:26:32Z",
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23458
+            "stars": 23456
           },
           "title": "SLoc (cloc)"
         }
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-21T14:31:31Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27223
+            "stars": 27227
           }
         },
         {
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 44971752,
             "language": "Python",
-            "last_commit": "2026-08-21T19:20:53Z",
+            "last_commit": "2026-08-22T11:32:22Z",
             "owner": "ethereum",
             "repo": "EIPs",
             "stars": 13954
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:59:45.969Z",
+    "last_updated": "2026-08-23T08:00:19.186Z",
     "original_repository": "tamjid0x01/SmartContracts-audit-checklist",
     "original_repository_id": 503004543,
     "original_repository_sha": "77d0b99e93087e83ef024a9fb29caca689f44f33",

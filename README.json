@@ -33,7 +33,7 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-27T09:26:57Z",
+            "last_commit": "2026-08-27T15:20:16Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27235
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 44971752,
             "language": "Python",
-            "last_commit": "2026-08-26T11:18:24Z",
+            "last_commit": "2026-08-27T15:44:19Z",
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13970
+            "stars": 13972
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2025-10-09T22:51:54Z",
             "owner": "minaminao",
             "repo": "ctf-blockchain",
-            "stars": 1092
+            "stars": 1094
           }
         },
         {
@@ -236,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:07.764Z",
+    "last_updated": "2026-08-27T18:24:33.638Z",
     "original_repository_info": {
       "archived": false,
       "id": 503004543,

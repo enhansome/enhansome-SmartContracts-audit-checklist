@@ -14,9 +14,10 @@
             "last_commit": "2026-08-08T13:26:32Z",
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23470
+            "stars": 23474
           },
-          "title": "SLoc (cloc)"
+          "title": "SLoc (cloc)",
+          "first_seen": "2026-08-28T19:35:18.759Z"
         }
       ],
       "title": "Audit Scoping"
@@ -33,11 +34,12 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-27T15:20:16Z",
+            "last_commit": "2026-08-28T09:07:54Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27235
-          }
+            "stars": 27234
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 44971752,
             "language": "Python",
-            "last_commit": "2026-08-27T15:44:19Z",
+            "last_commit": "2026-08-28T16:09:16Z",
             "owner": "ethereum",
             "repo": "EIPs",
             "stars": 13972
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         }
       ],
       "title": "General Review Approach:"
@@ -72,8 +75,9 @@
             "last_commit": "2026-08-19T05:07:48Z",
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1880
-          }
+            "stars": 1881
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -87,8 +91,9 @@
             "last_commit": "2026-07-27T09:27:16Z",
             "owner": "oak-security",
             "repo": "audit-reports",
-            "stars": 165
-          }
+            "stars": 166
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "g0-group",
             "repo": "Audits",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         }
       ],
       "title": "List of Public SmartContracts Audits Reports"
@@ -124,7 +130,8 @@
             "owner": "transmissions11",
             "repo": "solcurity",
             "stars": 2181
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -139,7 +146,8 @@
             "owner": "minaminao",
             "repo": "ctf-blockchain",
             "stars": 1094
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "0xNazgul",
             "repo": "Blockchain-Security-Audit-List",
             "stars": 792
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "Decurity",
             "repo": "semgrep-smart-contracts",
             "stars": 713
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "OpenCoreCH",
             "repo": "smart-contract-auditing-heuristics",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "miguelmota",
             "repo": "solidity-idiosyncrasies",
             "stars": 342
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "ConsenSysDiligence",
             "repo": "solidity-metrics",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         },
         {
           "node_type": "item",
@@ -229,14 +242,15 @@
             "owner": "Consensys",
             "repo": "smart-contract-best-practices",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T19:35:18.759Z"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:24:33.638Z",
+    "last_updated": "2026-08-28T19:35:18.759Z",
     "original_repository_info": {
       "archived": false,
       "id": 503004543,

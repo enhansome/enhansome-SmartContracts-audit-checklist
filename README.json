@@ -9,12 +9,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+            "homepage": null,
             "id": 42029482,
             "language": "Perl",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-08T13:26:32Z",
+            "open_issues": 27,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23474
+            "stars": 23474,
+            "topics": [
+              "cloc",
+              "count-lines",
+              "programming-language"
+            ]
           },
           "title": "SLoc (cloc)",
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -32,12 +41,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+            "homepage": "https://openzeppelin.com/contracts",
             "id": 64700934,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:07:54Z",
+            "open_issues": 374,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27234
+            "stars": 27234,
+            "topics": [
+              "ethereum",
+              "evm",
+              "security",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -48,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ethereum Improvement Proposal repository",
+            "homepage": "https://eips.ethereum.org/",
             "id": 44971752,
             "language": "Python",
-            "last_commit": "2026-08-28T16:09:16Z",
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-28T23:51:46Z",
+            "open_issues": 518,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13972
+            "stars": 13972,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         }
@@ -70,12 +95,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Publications from Trail of Bits",
+            "homepage": "https://www.trailofbits.com",
             "id": 34814001,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-19T05:07:48Z",
+            "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1881
+            "stars": 1881,
+            "topics": [
+              "academic-papers",
+              "conference-presentations",
+              "security-reviews"
+            ]
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -86,12 +120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 386672606,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-27T09:27:16Z",
+            "open_issues": 0,
             "owner": "oak-security",
             "repo": "audit-reports",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -102,12 +141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 176377581,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-17T23:45:16Z",
+            "open_issues": 0,
             "owner": "g0-group",
             "repo": "Audits",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         }
@@ -124,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opinionated security and code quality standard for Solidity smart contracts.",
+            "homepage": null,
             "id": 402241377,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-02T23:04:48Z",
+            "open_issues": 3,
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2181
+            "stars": 2181,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -140,12 +189,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A summary and solutions for 200+ CTF blockchain challenges",
+            "homepage": null,
             "id": 436095390,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2025-10-09T22:51:54Z",
+            "open_issues": 0,
             "owner": "minaminao",
             "repo": "ctf-blockchain",
-            "stars": 1094
+            "stars": 1094,
+            "topics": [
+              "blockchain",
+              "ctf",
+              "ethereum",
+              "evm",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -156,12 +216,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Blockchain Security audit companies, solo auditors and location of public audits.",
+            "homepage": null,
             "id": 473819456,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-14T01:20:36Z",
+            "open_issues": 4,
             "owner": "0xNazgul",
             "repo": "Blockchain-Security-Audit-List",
-            "stars": 792
+            "stars": 792,
+            "topics": [
+              "blockchain",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -172,12 +240,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semgrep rules for smart contracts based on DeFi exploits",
+            "homepage": null,
             "id": 476727342,
             "language": "Solidity",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-02T18:15:41Z",
+            "open_issues": 13,
             "owner": "Decurity",
             "repo": "semgrep-smart-contracts",
-            "stars": 713
+            "stars": 713,
+            "topics": [
+              "defi",
+              "ethereum",
+              "security",
+              "semgrep",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -188,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Heuristics for smart contract auditors",
+            "homepage": null,
             "id": 576975848,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-13T11:00:20Z",
+            "open_issues": 0,
             "owner": "OpenCoreCH",
             "repo": "smart-contract-auditing-heuristics",
-            "stars": 615
+            "stars": 615,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -204,12 +288,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Solidity gotchas, pitfalls, limitations, and idiosyncrasies.",
+            "homepage": "https://github.com/miguelmota/solidity-idiosyncrasies",
             "id": 107217298,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2020-11-30T02:11:40Z",
+            "open_issues": 0,
             "owner": "miguelmota",
             "repo": "solidity-idiosyncrasies",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "best-practices",
+              "ethereum",
+              "gotchas",
+              "idiosyncrasies",
+              "pitfalls",
+              "smart-contracts",
+              "solidity",
+              "truffle",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -220,12 +319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solidity Code Metrics",
+            "homepage": "https://www.npmjs.com/package/solidity-code-metrics",
             "id": 261559635,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-28T10:03:15Z",
+            "open_issues": 8,
             "owner": "ConsenSysDiligence",
             "repo": "solidity-metrics",
-            "stars": 296
+            "stars": 296,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         },
@@ -236,12 +340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guide to smart contract security best practices ",
+            "homepage": null,
             "id": 956692023,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-03-28T17:57:27Z",
+            "open_issues": 0,
             "owner": "Consensys",
             "repo": "smart-contract-best-practices",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
         }
@@ -250,15 +359,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:35:18.759Z",
+    "last_updated": "2026-08-29T04:37:28.003Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
+      "homepage": null,
       "id": 503004543,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-10-02T03:01:08Z",
+      "open_issues": 2,
       "owner": "tamjid0x01",
       "repo": "SmartContracts-audit-checklist",
-      "stars": 798
+      "stars": 798,
+      "topics": [
+        "audit",
+        "awesome",
+        "awesome-list",
+        "ethereum",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "security",
+        "smart-contracts",
+        "solidity",
+        "web3"
+      ]
     },
     "original_repository_sha": "77d0b99e93087e83ef024a9fb29caca689f44f33",
     "enhanced_repository": "enhansome/enhansome-SmartContracts-audit-checklist",

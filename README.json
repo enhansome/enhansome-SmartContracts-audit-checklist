@@ -18,7 +18,7 @@
             "open_issues": 27,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23475,
+            "stars": 23482,
             "topics": [
               "cloc",
               "count-lines",
@@ -50,7 +50,7 @@
             "open_issues": 374,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27233,
+            "stars": 27235,
             "topics": [
               "ethereum",
               "evm",
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-28T23:51:46Z",
+            "last_commit": "2026-08-30T09:00:39Z",
             "open_issues": 519,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13973,
+            "stars": 13974,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -104,7 +104,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1881,
+            "stars": 1880,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -225,7 +225,7 @@
             "open_issues": 4,
             "owner": "0xNazgul",
             "repo": "Blockchain-Security-Audit-List",
-            "stars": 792,
+            "stars": 791,
             "topics": [
               "blockchain",
               "security"
@@ -249,7 +249,7 @@
             "open_issues": 13,
             "owner": "Decurity",
             "repo": "semgrep-smart-contracts",
-            "stars": 713,
+            "stars": 712,
             "topics": [
               "defi",
               "ethereum",
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:21:24.426Z",
+    "last_updated": "2026-08-30T13:17:12.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",

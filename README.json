@@ -18,7 +18,7 @@
             "open_issues": 27,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23482,
+            "stars": 23490,
             "topics": [
               "cloc",
               "count-lines",
@@ -47,7 +47,7 @@
             "language": "Solidity",
             "license": "MIT",
             "last_commit": "2026-08-28T09:07:54Z",
-            "open_issues": 374,
+            "open_issues": 376,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27235,
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-30T09:00:39Z",
-            "open_issues": 519,
+            "last_commit": "2026-08-31T10:25:28Z",
+            "open_issues": 517,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13974,
+            "stars": 13976,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -104,7 +104,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1880,
+            "stars": 1883,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -276,7 +276,7 @@
             "open_issues": 0,
             "owner": "OpenCoreCH",
             "repo": "smart-contract-auditing-heuristics",
-            "stars": 615,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:17:12.684Z",
+    "last_updated": "2026-08-31T15:27:10.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
@@ -371,7 +371,7 @@
       "open_issues": 2,
       "owner": "tamjid0x01",
       "repo": "SmartContracts-audit-checklist",
-      "stars": 798,
+      "stars": 799,
       "topics": [
         "audit",
         "awesome",

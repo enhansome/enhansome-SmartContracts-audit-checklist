@@ -18,7 +18,7 @@
             "open_issues": 28,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23503,
+            "stars": 23506,
             "topics": [
               "cloc",
               "count-lines",
@@ -46,11 +46,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-04T22:58:35Z",
-            "open_issues": 367,
+            "last_commit": "2026-09-07T13:04:19Z",
+            "open_issues": 369,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27231,
+            "stars": 27232,
             "topics": [
               "ethereum",
               "evm",
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-04T15:24:46Z",
-            "open_issues": 505,
+            "last_commit": "2026-09-06T12:11:31Z",
+            "open_issues": 508,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13971,
+            "stars": 13972,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -104,7 +104,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1886,
+            "stars": 1887,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -177,7 +177,7 @@
             "open_issues": 3,
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2179,
+            "stars": 2178,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "minaminao",
             "repo": "ctf-blockchain",
-            "stars": 1096,
+            "stars": 1097,
             "topics": [
               "blockchain",
               "ctf",
@@ -276,7 +276,7 @@
             "open_issues": 0,
             "owner": "OpenCoreCH",
             "repo": "smart-contract-auditing-heuristics",
-            "stars": 617,
+            "stars": 618,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:44:45.493Z",
+    "last_updated": "2026-09-07T13:40:45.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
@@ -371,7 +371,7 @@
       "open_issues": 2,
       "owner": "tamjid0x01",
       "repo": "SmartContracts-audit-checklist",
-      "stars": 799,
+      "stars": 798,
       "topics": [
         "audit",
         "awesome",

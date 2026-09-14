@@ -14,11 +14,11 @@
             "id": 42029482,
             "language": "Perl",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-08T13:58:56Z",
+            "last_commit": "2026-09-14T03:20:21Z",
             "open_issues": 27,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23523,
+            "stars": 23532,
             "topics": [
               "cloc",
               "count-lines",
@@ -46,11 +46,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-12T20:03:50Z",
-            "open_issues": 375,
+            "last_commit": "2026-09-14T12:22:01Z",
+            "open_issues": 374,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27241,
+            "stars": 27238,
             "topics": [
               "ethereum",
               "evm",
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-12T20:20:13Z",
-            "open_issues": 523,
+            "last_commit": "2026-09-14T13:03:29Z",
+            "open_issues": 524,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13980,
+            "stars": 13978,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -177,7 +177,7 @@
             "open_issues": 3,
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2179,
+            "stars": 2180,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "minaminao",
             "repo": "ctf-blockchain",
-            "stars": 1099,
+            "stars": 1100,
             "topics": [
               "blockchain",
               "ctf",
@@ -249,7 +249,7 @@
             "open_issues": 13,
             "owner": "Decurity",
             "repo": "semgrep-smart-contracts",
-            "stars": 712,
+            "stars": 711,
             "topics": [
               "defi",
               "ethereum",
@@ -328,7 +328,7 @@
             "open_issues": 8,
             "owner": "ConsenSysDiligence",
             "repo": "solidity-metrics",
-            "stars": 295,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:50:56.211Z",
+    "last_updated": "2026-09-14T14:24:32.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
@@ -371,7 +371,7 @@
       "open_issues": 2,
       "owner": "tamjid0x01",
       "repo": "SmartContracts-audit-checklist",
-      "stars": 800,
+      "stars": 799,
       "topics": [
         "audit",
         "awesome",

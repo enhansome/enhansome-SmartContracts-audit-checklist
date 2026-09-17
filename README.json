@@ -18,7 +18,7 @@
             "open_issues": 27,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23536,
+            "stars": 23541,
             "topics": [
               "cloc",
               "count-lines",
@@ -46,11 +46,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-16T11:02:17Z",
-            "open_issues": 379,
+            "last_commit": "2026-09-17T12:37:00Z",
+            "open_issues": 365,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27242,
+            "stars": 27241,
             "topics": [
               "ethereum",
               "evm",
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-16T00:38:20Z",
-            "open_issues": 519,
+            "last_commit": "2026-09-16T16:40:10Z",
+            "open_issues": 522,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13977,
+            "stars": 13975,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -104,7 +104,7 @@
             "open_issues": 3,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1891,
+            "stars": 1892,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "minaminao",
             "repo": "ctf-blockchain",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "blockchain",
               "ctf",
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:49:55.719Z",
+    "last_updated": "2026-09-17T12:46:52.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",

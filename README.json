@@ -74,7 +74,7 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-09-24T16:47:59Z",
-            "open_issues": 521,
+            "open_issues": 523,
             "owner": "ethereum",
             "repo": "EIPs",
             "stars": 13988,
@@ -104,7 +104,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1902,
+            "stars": 1903,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T12:27:20.220Z",
+    "last_updated": "2026-09-27T13:17:35.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",

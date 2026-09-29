@@ -18,7 +18,7 @@
             "open_issues": 26,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23561,
+            "stars": 23563,
             "topics": [
               "cloc",
               "count-lines",
@@ -46,8 +46,8 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-09-28T15:39:26Z",
-            "open_issues": 355,
+            "last_commit": "2026-09-29T13:39:58Z",
+            "open_issues": 357,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27256,
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-24T16:47:59Z",
-            "open_issues": 524,
+            "last_commit": "2026-09-29T13:49:07Z",
+            "open_issues": 530,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13991,
+            "stars": 13992,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -104,7 +104,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1903,
+            "stars": 1904,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -177,7 +177,7 @@
             "open_issues": 3,
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2181,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:57:48.030Z",
+    "last_updated": "2026-09-29T14:21:05.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
@@ -371,7 +371,7 @@
       "open_issues": 3,
       "owner": "tamjid0x01",
       "repo": "SmartContracts-audit-checklist",
-      "stars": 800,
+      "stars": 802,
       "topics": [
         "audit",
         "awesome",

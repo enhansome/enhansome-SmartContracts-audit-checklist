@@ -73,8 +73,8 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-02T10:32:55Z",
-            "open_issues": 527,
+            "last_commit": "2026-10-03T09:17:04Z",
+            "open_issues": 526,
             "owner": "ethereum",
             "repo": "EIPs",
             "stars": 13993,
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:31:38.951Z",
+    "last_updated": "2026-10-03T12:43:28.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",

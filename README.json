@@ -18,7 +18,7 @@
             "open_issues": 26,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23570,
+            "stars": 23571,
             "topics": [
               "cloc",
               "count-lines",
@@ -37,7 +37,7 @@
         {
           "node_type": "item",
           "title": "Using the OpenZeppelin safe math library [?",
-          "description": "].",
+          "description": "OpenZeppelin/openzeppelin-contracts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,7 +50,7 @@
             "open_issues": 358,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27262,
+            "stars": 27266,
             "topics": [
               "ethereum",
               "evm",
@@ -64,7 +64,7 @@
         {
           "node_type": "item",
           "title": "Properly implements the ERC20 interface [?",
-          "description": "].",
+          "description": "ethereum/EIPs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -77,7 +77,7 @@
             "open_issues": 527,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13994,
+            "stars": 13993,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -100,7 +100,7 @@
             "id": 34814001,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-30T19:00:46Z",
+            "last_commit": "2026-10-02T16:35:58Z",
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
@@ -164,7 +164,7 @@
         {
           "node_type": "item",
           "title": "The Repository this list was largely sourced from",
-          "description": null,
+          "description": "transmissions11/solcurity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,7 +185,7 @@
         {
           "node_type": "item",
           "title": "All ctf poc writen using Foundery | ctf-blockchain)",
-          "description": null,
+          "description": "minaminao/ctf-blockchain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "Blockchain Security Audit List",
-          "description": null,
+          "description": "0xNazgul/Blockchain-Security-Audit-List",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,7 +236,7 @@
         {
           "node_type": "item",
           "title": "Semgrep Smart-contracts",
-          "description": null,
+          "description": "Decurity/semgrep-smart-contracts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -263,7 +263,7 @@
         {
           "node_type": "item",
           "title": "Smart Contract Auditing Heuristics",
-          "description": null,
+          "description": "OpenCoreCH/smart-contract-auditing-heuristics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -284,7 +284,7 @@
         {
           "node_type": "item",
           "title": "Solidity idiosyncrasies",
-          "description": null,
+          "description": "miguelmota/solidity-idiosyncrasies",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "miguelmota",
             "repo": "solidity-idiosyncrasies",
-            "stars": 342,
+            "stars": 341,
             "topics": [
               "best-practices",
               "ethereum",
@@ -315,7 +315,7 @@
         {
           "node_type": "item",
           "title": "Solidity Code Metrics By Consensys Diligence",
-          "description": null,
+          "description": "ConsenSysDiligence/solidity-metrics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -336,7 +336,7 @@
         {
           "node_type": "item",
           "title": "Smart contract best pracitices",
-          "description": null,
+          "description": "Consensys/smart-contract-best-practices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:08:34.918Z",
+    "last_updated": "2026-10-03T04:31:38.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",

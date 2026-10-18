@@ -18,7 +18,7 @@
             "open_issues": 27,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23604,
+            "stars": 23605,
             "topics": [
               "cloc",
               "count-lines",
@@ -50,7 +50,7 @@
             "open_issues": 353,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27289,
+            "stars": 27287,
             "topics": [
               "ethereum",
               "evm",
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-16T22:47:58Z",
-            "open_issues": 533,
+            "last_commit": "2026-10-18T03:23:11Z",
+            "open_issues": 538,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 14035,
+            "stars": 14033,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -104,7 +104,7 @@
             "open_issues": 5,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1912,
+            "stars": 1911,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -177,7 +177,7 @@
             "open_issues": 3,
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2183,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -225,7 +225,7 @@
             "open_issues": 5,
             "owner": "0xNazgul",
             "repo": "Blockchain-Security-Audit-List",
-            "stars": 792,
+            "stars": 790,
             "topics": [
               "blockchain",
               "security"
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:45:07.884Z",
+    "last_updated": "2026-10-18T12:11:10.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
@@ -371,7 +371,7 @@
       "open_issues": 3,
       "owner": "tamjid0x01",
       "repo": "SmartContracts-audit-checklist",
-      "stars": 803,
+      "stars": 802,
       "topics": [
         "audit",
         "awesome",

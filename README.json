@@ -18,7 +18,7 @@
             "open_issues": 27,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23605,
+            "stars": 23606,
             "topics": [
               "cloc",
               "count-lines",
@@ -46,11 +46,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-10-16T15:11:57Z",
-            "open_issues": 353,
+            "last_commit": "2026-10-19T09:39:58Z",
+            "open_issues": 354,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27287,
+            "stars": 27286,
             "topics": [
               "ethereum",
               "evm",
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-18T03:23:11Z",
-            "open_issues": 538,
+            "last_commit": "2026-10-19T08:19:17Z",
+            "open_issues": 540,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 14033,
+            "stars": 14034,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:11:10.232Z",
+    "last_updated": "2026-10-19T14:58:17.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",

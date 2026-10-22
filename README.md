@@ -10,7 +10,7 @@ Not all listed items will apply to your specific smart contract.
 
 ## Audit Scoping
 
-Before starting the audits you need to know about the projects codebase. You can easily do this task using [Consensys](https://diligence.consensys.net)'s [Solidity-Code-Metrics](https://github.com/ConsenSys/solidity-metrics) ⭐ 294 | 🐛 8 | 🌐 JavaScript | 📅 2024-11-28.
+Before starting the audits you need to know about the projects codebase. You can easily do this task using [Consensys](https://diligence.consensys.net)'s [Solidity-Code-Metrics](https://github.com/ConsenSys/solidity-metrics) ⭐ 293 | 🐛 8 | 🌐 JavaScript | 📅 2024-11-28.
 
 Here the details, How you can easy understand the projets scop.
 
@@ -22,7 +22,7 @@ The number-crunching enginge behind 📊[tintinweb.solidity-metrics](https://mar
 
 Also, some helpers mention here it's can help before audit.
 
-#### SLoc ([cloc](https://github.com/AlDanial/cloc#install-via-package-manager) ⭐ 23,609 | 🐛 27 | 🌐 Perl | 📅 2026-09-20)
+#### SLoc ([cloc](https://github.com/AlDanial/cloc#install-via-package-manager) ⭐ 23,614 | 🐛 29 | 🌐 Perl | 📅 2026-10-22)
 
 ```bash
 $ cloc */
@@ -103,8 +103,8 @@ contracts/WhitePaperInterestRateModel.sol:37:        baseRatePerBlock = baseRate
 
 ## General Review Approach:
 
-* [ ] Using the OpenZeppelin safe math library \[[?](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/math) ⭐ 27,288 | 🐛 344 | 🌐 Solidity | 📅 2026-10-21].
-* [ ] Properly implements the ERC20 interface \[[?](https://github.com/ethereum/eips/issues/20) ⭐ 14,038 | 🐛 535 | 🌐 Python | 📅 2026-10-21].
+* [ ] Using the OpenZeppelin safe math library \[[?](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/math) ⭐ 27,292 | 🐛 340 | 🌐 Solidity | 📅 2026-10-22].
+* [ ] Properly implements the ERC20 interface \[[?](https://github.com/ethereum/eips/issues/20) ⭐ 14,040 | 🐛 534 | 🌐 Python | 📅 2026-10-22].
 * [ ] All functions are `internal` except where explictly required to be `public`/`external`. \[[?](https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7)]
 * [ ] There are no arithmetic overflows/underflows in math operations.
 * [ ] Ether or tokens cannot be accidentally sent to the address `0x0`.
@@ -329,8 +329,8 @@ Some Platform here that you can do Smart Contracts audits and get large $ bounty
 
 I've mentioned here some public audits reports for learn audits. So, lets enjoy reading some cool audits reports.
 
-* [TrailofBits](https://www.trailofbits.com)  : [Reports](https://github.com/trailofbits/publications) ⭐ 1,912 | 🐛 5 | 🌐 Python | 📅 2026-10-19
-* [Oak Security](http://oaksecurity.io)  : [Reports](https://github.com/oak-security/audit-reports) ⭐ 166 | 🐛 0 | 📅 2026-10-05
+* [TrailofBits](https://www.trailofbits.com)  : [Reports](https://github.com/trailofbits/publications) ⭐ 1,913 | 🐛 4 | 🌐 Python | 📅 2026-10-19
+* [Oak Security](http://oaksecurity.io)  : [Reports](https://github.com/oak-security/audit-reports) ⭐ 166 | 🐛 0 | 📅 2026-10-22
 * [G0 group](https://github.com/g0-group)  : [Reports](https://github.com/g0-group/Audits) ⭐ 4 | 🐛 0 | 📅 2024-07-17
 * [Consensys](https://consensys.net)  : [Reports](https://consensys.net/diligence/audits/)
 * [Peckshield](https://peckshield.com)  : [Reports](https://peckshield.com/#report)
@@ -347,11 +347,11 @@ I've mentioned here some public audits reports for learn audits. So, lets enjoy 
 
 * [The Repository this list was largely sourced from](https://github.com/Rari-Capital/solcurity) ⭐ 2,182 | 🐛 3 | 📅 2023-07-02
 * [All ctf poc writen using Foundery | ctf-blockchain)](https://github.com/minaminao/ctf-blockchain) ⭐ 1,103 | 🐛 0 | 🌐 Solidity | 📅 2025-10-09
-* [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) ⭐ 790 | 🐛 5 | 📅 2025-01-14
+* [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) ⭐ 789 | 🐛 5 | 📅 2025-01-14
 * [Semgrep Smart-contracts](https://github.com/Decurity/semgrep-smart-contracts) ⭐ 712 | 🐛 13 | 🌐 Solidity | 📅 2025-06-02
 * [Smart Contract Auditing Heuristics](https://github.com/OpenCoreCH/smart-contract-auditing-heuristics) ⭐ 617 | 🐛 0 | 📅 2022-12-13
 * [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) ⚠️ Archived
-* [Solidity Code Metrics By Consensys Diligence](https://github.com/ConsenSys/solidity-metrics) ⭐ 294 | 🐛 8 | 🌐 JavaScript | 📅 2024-11-28
+* [Solidity Code Metrics By Consensys Diligence](https://github.com/ConsenSys/solidity-metrics) ⭐ 293 | 🐛 8 | 🌐 JavaScript | 📅 2024-11-28
 * [Smart contract best pracitices](https://github.com/ConsenSys/smart-contract-best-practices) ⭐ 27 | 🐛 0 | 🌐 HTML | 📅 2025-03-28
 * [Solidity security considerations](http://solidity.readthedocs.io/en/develop/security-considerations.html)
 * [Methodological security review of a smart contract](https://ethereum.stackexchange.com/questions/8551/methodological-security-review-of-a-smart-contract)
@@ -363,4 +363,4 @@ I've mentioned here some public audits reports for learn audits. So, lets enjoy 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

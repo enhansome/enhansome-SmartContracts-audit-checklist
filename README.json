@@ -14,11 +14,11 @@
             "id": 42029482,
             "language": "Perl",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-20T03:32:22Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-22T01:23:25Z",
+            "open_issues": 29,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23609,
+            "stars": 23614,
             "topics": [
               "cloc",
               "count-lines",
@@ -46,11 +46,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-10-21T08:57:13Z",
-            "open_issues": 344,
+            "last_commit": "2026-10-22T10:15:42Z",
+            "open_issues": 340,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27288,
+            "stars": 27292,
             "topics": [
               "ethereum",
               "evm",
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-21T12:28:52Z",
-            "open_issues": 535,
+            "last_commit": "2026-10-22T00:27:07Z",
+            "open_issues": 534,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 14038,
+            "stars": 14040,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -101,10 +101,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-19T21:08:13Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1912,
+            "stars": 1913,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -125,7 +125,7 @@
             "id": 386672606,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T19:31:22Z",
+            "last_commit": "2026-10-22T11:03:23Z",
             "open_issues": 0,
             "owner": "oak-security",
             "repo": "audit-reports",
@@ -225,7 +225,7 @@
             "open_issues": 5,
             "owner": "0xNazgul",
             "repo": "Blockchain-Security-Audit-List",
-            "stars": 790,
+            "stars": 789,
             "topics": [
               "blockchain",
               "security"
@@ -328,7 +328,7 @@
             "open_issues": 8,
             "owner": "ConsenSysDiligence",
             "repo": "solidity-metrics",
-            "stars": 294,
+            "stars": 293,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T13:14:04.146Z",
+    "last_updated": "2026-10-22T13:11:33.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
@@ -371,7 +371,7 @@
       "open_issues": 3,
       "owner": "tamjid0x01",
       "repo": "SmartContracts-audit-checklist",
-      "stars": 802,
+      "stars": 801,
       "topics": [
         "audit",
         "awesome",

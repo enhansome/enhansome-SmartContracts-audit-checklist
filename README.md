@@ -103,8 +103,8 @@ contracts/WhitePaperInterestRateModel.sol:37:        baseRatePerBlock = baseRate
 
 ## General Review Approach:
 
-* [ ] Using the OpenZeppelin safe math library \[[?](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/math) ⭐ 27,292 | 🐛 340 | 🌐 Solidity | 📅 2026-10-22].
-* [ ] Properly implements the ERC20 interface \[[?](https://github.com/ethereum/eips/issues/20) ⭐ 14,040 | 🐛 534 | 🌐 Python | 📅 2026-10-22].
+* [ ] Using the OpenZeppelin safe math library \[[?](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/math) ⭐ 27,296 | 🐛 341 | 🌐 Solidity | 📅 2026-10-23].
+* [ ] Properly implements the ERC20 interface \[[?](https://github.com/ethereum/eips/issues/20) ⭐ 14,041 | 🐛 530 | 🌐 Python | 📅 2026-10-22].
 * [ ] All functions are `internal` except where explictly required to be `public`/`external`. \[[?](https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7)]
 * [ ] There are no arithmetic overflows/underflows in math operations.
 * [ ] Ether or tokens cannot be accidentally sent to the address `0x0`.
@@ -330,7 +330,7 @@ Some Platform here that you can do Smart Contracts audits and get large $ bounty
 I've mentioned here some public audits reports for learn audits. So, lets enjoy reading some cool audits reports.
 
 * [TrailofBits](https://www.trailofbits.com)  : [Reports](https://github.com/trailofbits/publications) ⭐ 1,913 | 🐛 4 | 🌐 Python | 📅 2026-10-19
-* [Oak Security](http://oaksecurity.io)  : [Reports](https://github.com/oak-security/audit-reports) ⭐ 166 | 🐛 0 | 📅 2026-10-22
+* [Oak Security](http://oaksecurity.io)  : [Reports](https://github.com/oak-security/audit-reports) ⭐ 166 | 🐛 0 | 📅 2026-10-23
 * [G0 group](https://github.com/g0-group)  : [Reports](https://github.com/g0-group/Audits) ⭐ 4 | 🐛 0 | 📅 2024-07-17
 * [Consensys](https://consensys.net)  : [Reports](https://consensys.net/diligence/audits/)
 * [Peckshield](https://peckshield.com)  : [Reports](https://peckshield.com/#report)
@@ -363,4 +363,4 @@ I've mentioned here some public audits reports for learn audits. So, lets enjoy 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

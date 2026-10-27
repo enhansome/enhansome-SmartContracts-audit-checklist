@@ -18,7 +18,7 @@
             "open_issues": 26,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23624,
+            "stars": 23628,
             "topics": [
               "cloc",
               "count-lines",
@@ -46,11 +46,11 @@
             "id": 64700934,
             "language": "Solidity",
             "license": "MIT",
-            "last_commit": "2026-10-23T14:32:22Z",
+            "last_commit": "2026-10-26T22:04:08Z",
             "open_issues": 343,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27303,
+            "stars": 27336,
             "topics": [
               "ethereum",
               "evm",
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-26T09:19:52Z",
-            "open_issues": 536,
+            "last_commit": "2026-10-27T11:42:31Z",
+            "open_issues": 535,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 14046,
+            "stars": 14049,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -104,7 +104,7 @@
             "open_issues": 4,
             "owner": "trailofbits",
             "repo": "publications",
-            "stars": 1914,
+            "stars": 1916,
             "topics": [
               "academic-papers",
               "conference-presentations",
@@ -129,7 +129,7 @@
             "open_issues": 0,
             "owner": "oak-security",
             "repo": "audit-reports",
-            "stars": 166,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "minaminao",
             "repo": "ctf-blockchain",
-            "stars": 1103,
+            "stars": 1101,
             "topics": [
               "blockchain",
               "ctf",
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:33:36.434Z",
+    "last_updated": "2026-10-27T13:33:45.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",

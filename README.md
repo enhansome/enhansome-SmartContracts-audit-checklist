@@ -22,7 +22,7 @@ The number-crunching enginge behind 📊[tintinweb.solidity-metrics](https://mar
 
 Also, some helpers mention here it's can help before audit.
 
-#### SLoc ([cloc](https://github.com/AlDanial/cloc#install-via-package-manager) ⭐ 23,636 | 🐛 26 | 🌐 Perl | 📅 2026-10-26)
+#### SLoc ([cloc](https://github.com/AlDanial/cloc#install-via-package-manager) ⭐ 23,640 | 🐛 26 | 🌐 Perl | 📅 2026-10-26)
 
 ```bash
 $ cloc */
@@ -103,8 +103,8 @@ contracts/WhitePaperInterestRateModel.sol:37:        baseRatePerBlock = baseRate
 
 ## General Review Approach:
 
-* [ ] Using the OpenZeppelin safe math library \[[?](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/math) ⭐ 27,334 | 🐛 344 | 🌐 Solidity | 📅 2026-10-31].
-* [ ] Properly implements the ERC20 interface \[[?](https://github.com/ethereum/eips/issues/20) ⭐ 14,057 | 🐛 541 | 🌐 Python | 📅 2026-10-30].
+* [ ] Using the OpenZeppelin safe math library \[[?](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/contracts/math) ⭐ 27,338 | 🐛 345 | 🌐 Solidity | 📅 2026-11-01].
+* [ ] Properly implements the ERC20 interface \[[?](https://github.com/ethereum/eips/issues/20) ⭐ 14,059 | 🐛 543 | 🌐 Python | 📅 2026-11-01].
 * [ ] All functions are `internal` except where explictly required to be `public`/`external`. \[[?](https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7)]
 * [ ] There are no arithmetic overflows/underflows in math operations.
 * [ ] Ether or tokens cannot be accidentally sent to the address `0x0`.
@@ -363,4 +363,4 @@ I've mentioned here some public audits reports for learn audits. So, lets enjoy 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

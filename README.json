@@ -18,7 +18,7 @@
             "open_issues": 26,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23645,
+            "stars": 23648,
             "topics": [
               "cloc",
               "count-lines",
@@ -47,7 +47,7 @@
             "language": "Solidity",
             "license": "MIT",
             "last_commit": "2026-11-06T00:06:24Z",
-            "open_issues": 340,
+            "open_issues": 343,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27354,
@@ -73,11 +73,11 @@
             "id": 44971752,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-05T15:26:47Z",
-            "open_issues": 556,
+            "last_commit": "2026-11-07T21:56:30Z",
+            "open_issues": 557,
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 14066,
+            "stars": 14068,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "minaminao",
             "repo": "ctf-blockchain",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "blockchain",
               "ctf",
@@ -249,7 +249,7 @@
             "open_issues": 13,
             "owner": "Decurity",
             "repo": "semgrep-smart-contracts",
-            "stars": 712,
+            "stars": 713,
             "topics": [
               "defi",
               "ethereum",
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:20:14.815Z",
+    "last_updated": "2026-11-08T14:31:14.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
@@ -371,7 +371,7 @@
       "open_issues": 3,
       "owner": "tamjid0x01",
       "repo": "SmartContracts-audit-checklist",
-      "stars": 802,
+      "stars": 801,
       "topics": [
         "audit",
         "awesome",

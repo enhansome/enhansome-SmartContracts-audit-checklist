@@ -14,11 +14,11 @@
             "id": 42029482,
             "language": "Perl",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-13T05:14:31Z",
+            "last_commit": "2026-11-14T19:34:39Z",
             "open_issues": 26,
             "owner": "AlDanial",
             "repo": "cloc",
-            "stars": 23667,
+            "stars": 23668,
             "topics": [
               "cloc",
               "count-lines",
@@ -50,7 +50,7 @@
             "open_issues": 345,
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27361,
+            "stars": 27363,
             "topics": [
               "ethereum",
               "evm",
@@ -74,7 +74,7 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-11-13T21:48:18Z",
-            "open_issues": 573,
+            "open_issues": 574,
             "owner": "ethereum",
             "repo": "EIPs",
             "stars": 14075,
@@ -225,7 +225,7 @@
             "open_issues": 5,
             "owner": "0xNazgul",
             "repo": "Blockchain-Security-Audit-List",
-            "stars": 792,
+            "stars": 793,
             "topics": [
               "blockchain",
               "security"
@@ -249,7 +249,7 @@
             "open_issues": 13,
             "owner": "Decurity",
             "repo": "semgrep-smart-contracts",
-            "stars": 713,
+            "stars": 714,
             "topics": [
               "defi",
               "ethereum",
@@ -276,7 +276,7 @@
             "open_issues": 0,
             "owner": "OpenCoreCH",
             "repo": "smart-contract-auditing-heuristics",
-            "stars": 618,
+            "stars": 619,
             "topics": []
           },
           "first_seen": "2026-08-28T19:35:18.759Z"
@@ -324,8 +324,8 @@
             "id": 261559635,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2024-11-28T10:03:15Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-14T16:08:14Z",
+            "open_issues": 5,
             "owner": "ConsenSysDiligence",
             "repo": "solidity-metrics",
             "stars": 293,
@@ -359,7 +359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:30:42.008Z",
+    "last_updated": "2026-11-15T14:57:48.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
@@ -371,7 +371,7 @@
       "open_issues": 3,
       "owner": "tamjid0x01",
       "repo": "SmartContracts-audit-checklist",
-      "stars": 802,
+      "stars": 803,
       "topics": [
         "audit",
         "awesome",
